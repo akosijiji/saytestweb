@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">webservicetest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="locationfrom">Location From</string>
+    <string name="locationto">Location To</string>
+    <string name="customer">Customer</string>
+    <string name="salesman">Salesman</string>
+    <string name="update">Update Record</string>
+    <string name="code">Code</string>
+
+</resources>
